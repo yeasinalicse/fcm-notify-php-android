@@ -24,7 +24,7 @@ This project demonstrates how to:
 ## 📁 Project Structure
 
 ```
-mHealthPushNotification/
+pushNotification/
 ├── index.php
 └── service-account.json
 ```
@@ -36,8 +36,8 @@ mHealthPushNotification/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mHealthPushNotification.git
-cd mHealthPushNotification
+git clone https://github.com/your-username/pushNotification.git
+cd pushNotification
 ```
 
 ---
@@ -66,7 +66,7 @@ Place it in the project root folder.
 Using XAMPP or any PHP server:
 
 ```
-http://localhost/mHealthPushNotification/index.php
+http://localhost/pushNotification/index.php
 ```
 
 ---
